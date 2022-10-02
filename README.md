@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kidussintayehu , MERN Stack Developer
 - 👀 I’m interested in Full Stack and Detabase Development
 - 🌱 I’m currently learning Golang and GRPC api communication
-- 💞️ I’m looking to collaborate on Projects which have great inpact on human life
+- 💞️ I’m looking to collaborate on Projects which have a great impact on human life
 - 📫 How to reach me [Kidus Sintayehu](https://www.upwork.com/freelancers/~014f04999c0410bf06)
 
 <!---
