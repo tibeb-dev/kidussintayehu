@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **on Projects which have a great impact on human life**
 
-- 👨‍💻 All of my projects are available at [kidussintayehu](kidussintayehu.github.io/)
+- 👨‍💻 All of my projects are available at [kidussintayehu](https://kidussintayehu.github.io/)
 
 - 💬 Ask me about **flutter and MERN Stack**
 
